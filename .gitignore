@@ -1,0 +1,6 @@
+lib/*.so
+*.o
+davconvert
+*.dav
+*.avi
+*.mp4
